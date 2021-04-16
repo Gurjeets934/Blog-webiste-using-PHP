@@ -100,7 +100,12 @@ session_start();
     <div class="container h-100">
       <div class="row h-100 align-items-center">
         <div class="col-12 text-center">
-          <p class="main-heading">I am Nikhil Tanwar</p>
+          <h1 class="second-heading">I love to
+            <span
+               class="txt-rotate"
+               data-period="2000"
+               data-rotate='[ "blog.", "design.", "travel.", "swim."]'></span>
+          </h1><br/>
           <h1 class="second-heading">I love to
             <span
                class="txt-rotate"
