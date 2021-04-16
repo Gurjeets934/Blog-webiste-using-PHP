@@ -3,6 +3,6 @@
 
 
 
-Note: IMPORT the BLOGGER.SQL file in your database named blogger inside your localhost/phpmyadmin 
+Note: IMPORT the BLOGGER.SQL file in your database named 'blogger' inside your localhost/phpmyadmin 
 
 
